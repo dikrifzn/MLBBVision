@@ -155,7 +155,7 @@ def train():
                 filename=BEST_MODEL,
             )
 
-            print(f"✅ Best Model Saved ({best_acc:.2f}%)")
+            print(f"Best Model Saved ({best_acc:.2f}%)")
 
         save_checkpoint(
             model=model,
@@ -164,7 +164,7 @@ def train():
             filename=LAST_MODEL,
         )
 
-        print("💾 Last Model Saved")
+        print("Last Model Saved")
         print()
 
     print("=" * 60)

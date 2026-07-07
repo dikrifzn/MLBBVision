@@ -1,0 +1,219 @@
+{
+    "game_duration": "16:06",
+    "game_number": "",
+    "winmatches": "blue",
+    "teamdata": {
+        "blueteam": {
+            "teamname": "BLUE TEAM",
+            "score": 30,
+            "logo": "",
+            "totalgold": 54234,
+            "turret": 0,
+            "lord": 0,
+            "turtle": 0,
+            "playerlist": [
+                {
+                    "name": "Voltaire",
+                    "hero": "Tigreal",
+                    "level": "15",
+                    "KDA": "3/4/20",
+                    "gold": 11003,
+                    "score": "1017",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Tough Boots",
+                        "Antique Cuirass",
+                        "Dominance Ice",
+                        "Athenas Shield",
+                        "Chastise Pauldron",
+                        "Ares Belt"
+                    ],
+                    "lane": ""
+                },
+                {
+                    "name": "BETEXS",
+                    "hero": "Clint",
+                    "level": "15",
+                    "KDA": "5/7/15",
+                    "gold": 10830,
+                    "score": "818",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Warrior Boots",
+                        "Blade of the Heptaseas",
+                        "Endless Battle",
+                        "Blade Of Despair",
+                        "Malefic Roar",
+                        "Dagger"
+                    ],
+                    "lane": ""
+                },
+                {
+                    "name": "Asyraful",
+                    "hero": "Aurora",
+                    "level": "14",
+                    "KDA": "1/4/3",
+                    "gold": 8688,
+                    "score": "319",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Arcane Boots",
+                        "Enchanted Talisman",
+                        "Blood Wings",
+                        "Lightning Truncheon",
+                        "Magic Wand",
+                        "Mystery Codex"
+                    ],
+                    "lane": ""
+                },
+                {
+                    "name": "road devil",
+                    "hero": "Lancelot",
+                    "level": "15",
+                    "KDA": "1/5/2",
+                    "gold": 9766,
+                    "score": "326",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Endless Battle",
+                        "Magic Shoes",
+                        "Blade Of Despair",
+                        "Berserkers Fury",
+                        "Legion Sword",
+                        "idle"
+                    ],
+                    "lane": ""
+                },
+                {
+                    "name": "Jjapoks LAL",
+                    "hero": "Cyclops",
+                    "level": "15",
+                    "KDA": "20/5/3",
+                    "gold": 13947,
+                    "score": "119",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Magic Shoes",
+                        "Enchanted Talisman",
+                        "Sky Piercer",
+                        "Concentrated Energy",
+                        "Glowing Wand",
+                        "Athenas Shield"
+                    ],
+                    "lane": ""
+                }
+            ]
+        },
+        "redteam": {
+            "teamname": "RED TEAM",
+            "score": 25,
+            "logo": "",
+            "totalgold": 46128,
+            "turret": 0,
+            "lord": 0,
+            "turtle": 0,
+            "playerlist": [
+                {
+                    "name": "V3NOM73D",
+                    "hero": "Irithel",
+                    "level": "15",
+                    "KDA": "2/9/7",
+                    "gold": 7191,
+                    "score": "326",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Rapid Boots",
+                        "Windtalker",
+                        "Haass Claws",
+                        "Golden Staff",
+                        "Fury Hammer",
+                        "idle"
+                    ],
+                    "lane": ""
+                },
+                {
+                    "name": "Nic-G 0",
+                    "hero": "Thamuz",
+                    "level": "15",
+                    "KDA": "5/5/8",
+                    "gold": 10382,
+                    "score": "88",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Tough Boots",
+                        "Thunder Belt",
+                        "Corrosion Scythe",
+                        "War Axe",
+                        "Queens Wings",
+                        "Ares Belt"
+                    ],
+                    "lane": ""
+                },
+                {
+                    "name": "babyyy",
+                    "hero": "Harley",
+                    "level": "15",
+                    "KDA": "8/4/3",
+                    "gold": 9122,
+                    "score": "616",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Arcane Boots",
+                        "Sky Piercer",
+                        "Genius Wand",
+                        "Lightning Truncheon",
+                        "Magic Wand",
+                        "Magic Wand"
+                    ],
+                    "lane": ""
+                },
+                {
+                    "name": "arjuna",
+                    "hero": "Hilda",
+                    "level": "15",
+                    "KDA": "6/6/3",
+                    "gold": 10300,
+                    "score": "518",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Rapid Boots",
+                        "Blade of the Heptaseas",
+                        "Thunder Belt",
+                        "Dominance Ice",
+                        "Athenas Shield",
+                        "Ares Belt"
+                    ],
+                    "lane": ""
+                },
+                {
+                    "name": "UjangKarburator _",
+                    "hero": "Vexana",
+                    "level": "14",
+                    "KDA": "4/6/6",
+                    "gold": 9133,
+                    "score": "623",
+                    "spell": "",
+                    "banhero": "",
+                    "itemlist": [
+                        "Arcane Boots",
+                        "Fleeting Time",
+                        "Enchanted Talisman",
+                        "Blood Wings",
+                        "Glowing Wand",
+                        "Mystery Codex"
+                    ],
+                    "lane": ""
+                }
+            ]
+        }
+    }
+}

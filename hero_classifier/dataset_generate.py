@@ -3,9 +3,7 @@ from PIL import Image
 import numpy as np
 import albumentations as A
 
-# ==========================================================
 # CONFIG
-# ==========================================================
 
 INPUT_DIR = Path("dataset_original")
 OUTPUT_DIR = Path("dataset")
@@ -14,9 +12,7 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 
 SAMPLES_PER_HERO = 50
 
-# ==========================================================
 # AUGMENTATION
-# ==========================================================
 
 transform = A.Compose([
 
@@ -76,9 +72,7 @@ for file in files:
 
     hero_dir.mkdir(parents=True, exist_ok=True)
 
-    # ======================================================
     # LOAD RGBA
-    # ======================================================
 
     img = Image.open(file).convert("RGBA")
 
@@ -88,17 +82,13 @@ for file in files:
 
     alpha = rgba[:, :, 3]
 
-    # ======================================================
     # SAVE ORIGINAL
-    # ======================================================
 
     Image.fromarray(rgba).save(
         hero_dir / "0000.png"
     )
 
-    # ======================================================
     # GENERATE
-    # ======================================================
 
     for i in range(1, SAMPLES_PER_HERO + 1):
 
